@@ -36,7 +36,7 @@ import java.util.ArrayList;
 
 public class ListActivity extends AppCompatActivity {
     public static final String MY_JSON = "MY_JSON";
-    private static final String JSON_URL = "http://web.curl.com.ua/json2.php?limit=";
+    private static final String JSON_URL = "http://site.com/json.php?limit=";
     private String[] catNames;
     private JSONArray productsArrayJSON;
     private JSONObject jsonProduct;
